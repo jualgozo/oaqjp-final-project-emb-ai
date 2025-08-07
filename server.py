@@ -1,3 +1,6 @@
+"""
+This module contains a Flask application for emotion detection.
+"""
 # Import necessary modules from Flask
 from flask import Flask, render_template, request
 # Import the emotion_detector function from the EmotionDetection package
